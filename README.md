@@ -18,6 +18,6 @@ Este repositório é dedicado à ideia central de que, antes de se aventurar no 
 
 ## 🤝 Contribuição
 
-Sinta-se à vontade para contribuir com este projeto! Se você tem um guia, um tutorial ou qualquer outro recurso educacional sobre  **JavaScript ** puro, adoraríamos incluí-lo aqui.
+Sinta-se à vontade para contribuir com este projeto! Se você tem um guia, um tutorial ou qualquer outro recurso educacional sobre  **JavaScript** puro, adoraríamos incluí-lo aqui.
 
 Conecte-se conosco
